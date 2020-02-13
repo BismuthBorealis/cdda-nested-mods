@@ -1,0 +1,15 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "higher_entity",
+    "symbol": "]",
+    "color": "red",
+    "name": "higher entity",
+    "description": "A mass produced higher entity.",
+    "price": 200,
+    "material": [ "cotton" ],
+    "weight": "400 g",
+    "volume": "750 ml",
+    "flags": [ "SLEEP_AID" ]
+  }
+]

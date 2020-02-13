@@ -1,0 +1,15 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "lower_entity",
+    "symbol": "[",
+    "color": "red",
+    "name": "lower entity",
+    "description": "A mass produced lower entity.",
+    "price": 200,
+    "material": [ "cotton" ],
+    "weight": "400 g",
+    "volume": "750 ml",
+    "flags": [ "SLEEP_AID" ]
+  }
+]

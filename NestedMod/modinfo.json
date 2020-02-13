@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "HTest",
+    "name": "HigherTest",
+    "authors": [ "BismuthBorealis" ],
+    "description": "A test of nested mods.",
+    "category": "misc",
+    "dependencies": [ "dda" ]
+  }
+]
